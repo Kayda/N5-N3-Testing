@@ -1,0 +1,144 @@
+{
+    "vocabulary": [
+        {
+            "word": "時間",
+            "meaning": "Time",
+            "reading": "じかん",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "月",
+            "meaning": "Month",
+            "reading": "つき",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "天気",
+            "meaning": "Weather",
+            "reading": "てんき",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "日曜日",
+            "meaning": "Sunday",
+            "reading": "にちようび",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "見ます",
+            "meaning": "To see, to watch",
+            "reading": "みます",
+            "level": "N5",
+            "category": "Verb"
+        },
+        {
+            "word": "事務所",
+            "meaning": "Office",
+            "reading": "じむしょ",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "会話",
+            "meaning": "Conversation",
+            "reading": "かいわ",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "誕生日",
+            "meaning": "Birthday",
+            "reading": "たんじょうび",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "自信",
+            "meaning": "Confidence",
+            "reading": "じしん",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "練習",
+            "meaning": "Practice",
+            "reading": "れんしゅう",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "確か",
+            "meaning": "Certain",
+            "reading": "たしか",
+            "level": "N3",
+            "category": "Adjective"
+        },
+        {
+            "word": "途中",
+            "meaning": "On the way",
+            "reading": "とちゅう",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "競争",
+            "meaning": "Competition",
+            "reading": "きょうそう",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "助け",
+            "meaning": "Help",
+            "reading": "たすけ",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "出発",
+            "meaning": "Departure",
+            "reading": "しゅっぱつ",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "変化",
+            "meaning": "Change",
+            "reading": "へんか",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "思い出",
+            "meaning": "Memory",
+            "reading": "おもいで",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "期待",
+            "meaning": "Expectation",
+            "reading": "きたい",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "運転",
+            "meaning": "Driving",
+            "reading": "うんてん",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "影響",
+            "meaning": "Influence",
+            "reading": "えいきょう",
+            "level": "N3",
+            "category": "Noun"
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "vocabulary": [
+        {
+            "word": "新しい",
+            "meaning": "New",
+            "reading": "あたらしい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "古い",
+            "meaning": "Old",
+            "reading": "ふるい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "速い",
+            "meaning": "Fast",
+            "reading": "はやい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "遅い",
+            "meaning": "Slow",
+            "reading": "おそい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "大きい",
+            "meaning": "Big",
+            "reading": "おおきい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "英語",
+            "meaning": "English (language)",
+            "reading": "えいご",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "日本",
+            "meaning": "Japan",
+            "reading": "にほん",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "ありがとう",
+            "meaning": "Thank you",
+            "reading": "ありがとう",
+            "level": "N5",
+            "category": "Phrase"
+        },
+        {
+            "word": "愛",
+            "meaning": "Love",
+            "reading": "あい",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "友達",
+            "meaning": "Friend",
+            "reading": "ともだち",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "料理",
+            "meaning": "Cooking",
+            "reading": "りょうり",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "努力",
+            "meaning": "Effort",
+            "reading": "どりょく",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "楽しい",
+            "meaning": "Fun, enjoyable",
+            "reading": "たのしい",
+            "level": "N4",
+            "category": "Adjective"
+        },
+        {
+            "word": "理解",
+            "meaning": "Understanding",
+            "reading": "りかい",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "助ける",
+            "meaning": "To help",
+            "reading": "たすける",
+            "level": "N4",
+            "category": "Verb"
+        },
+        {
+            "word": "参加",
+            "meaning": "Participation",
+            "reading": "さんか",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "成功",
+            "meaning": "Success",
+            "reading": "せいこう",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "意味",
+            "meaning": "Meaning",
+            "reading": "いみ",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "解決",
+            "meaning": "Solution",
+            "reading": "かいけつ",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "時間",
+            "meaning": "Time",
+            "reading": "じかん",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "意見",
+            "meaning": "Opinion",
+            "reading": "いけん",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "解釈",
+            "meaning": "Interpretation",
+            "reading": "かいしゃく",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "教育",
+            "meaning": "Education",
+            "reading": "きょういく",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "運動",
+            "meaning": "Exercise, movement",
+            "reading": "うんどう",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "予測",
+            "meaning": "Prediction",
+            "reading": "よそく",
+            "level": "N3",
+            "category": "Noun"
+        }
+    ]
+}

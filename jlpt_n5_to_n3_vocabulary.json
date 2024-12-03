@@ -1,0 +1,284 @@
+{
+    "vocabulary": [
+        {
+            "word": "大きい",
+            "meaning": "Big",
+            "reading": "おおきい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "食べる",
+            "meaning": "To eat",
+            "reading": "たべる",
+            "level": "N5",
+            "category": "Verb"
+        },
+        {
+            "word": "見る",
+            "meaning": "To see",
+            "reading": "みる",
+            "level": "N5",
+            "category": "Verb"
+        },
+        {
+            "word": "駅",
+            "meaning": "Station",
+            "reading": "えき",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "行く",
+            "meaning": "To go",
+            "reading": "いく",
+            "level": "N5",
+            "category": "Verb"
+        },
+        {
+            "word": "楽しい",
+            "meaning": "Fun, enjoyable",
+            "reading": "たのしい",
+            "level": "N5",
+            "category": "Adjective"
+        },
+        {
+            "word": "友達",
+            "meaning": "Friend",
+            "reading": "ともだち",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "犬",
+            "meaning": "Dog",
+            "reading": "いぬ",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "本",
+            "meaning": "Book",
+            "reading": "ほん",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "学生",
+            "meaning": "Student",
+            "reading": "がくせい",
+            "level": "N5",
+            "category": "Noun"
+        },
+        {
+            "word": "忙しい",
+            "meaning": "Busy",
+            "reading": "いそがしい",
+            "level": "N4",
+            "category": "Adjective"
+        },
+        {
+            "word": "経験",
+            "meaning": "Experience",
+            "reading": "けいけん",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "料理",
+            "meaning": "Cooking",
+            "reading": "りょうり",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "遊ぶ",
+            "meaning": "To play, to have fun",
+            "reading": "あそぶ",
+            "level": "N4",
+            "category": "Verb"
+        },
+        {
+            "word": "決める",
+            "meaning": "To decide",
+            "reading": "きめる",
+            "level": "N4",
+            "category": "Verb"
+        },
+        {
+            "word": "明日",
+            "meaning": "Tomorrow",
+            "reading": "あした",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "違う",
+            "meaning": "To differ",
+            "reading": "ちがう",
+            "level": "N4",
+            "category": "Verb"
+        },
+        {
+            "word": "注意",
+            "meaning": "Caution, attention",
+            "reading": "ちゅうい",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "試験",
+            "meaning": "Test, exam",
+            "reading": "しけん",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "会話",
+            "meaning": "Conversation",
+            "reading": "かいわ",
+            "level": "N4",
+            "category": "Noun"
+        },
+        {
+            "word": "整理",
+            "meaning": "Organize, sorting",
+            "reading": "せいり",
+            "level": "N3",
+            "category": "Noun/Verb"
+        },
+        {
+            "word": "経済",
+            "meaning": "Economy",
+            "reading": "けいざい",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "研究",
+            "meaning": "Research",
+            "reading": "けんきゅう",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "環境",
+            "meaning": "Environment",
+            "reading": "かんきょう",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "未来",
+            "meaning": "Future",
+            "reading": "みらい",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "報告",
+            "meaning": "Report",
+            "reading": "ほうこく",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "重要",
+            "meaning": "Important",
+            "reading": "じゅうよう",
+            "level": "N3",
+            "category": "Adjective"
+        },
+        {
+            "word": "目的",
+            "meaning": "Purpose",
+            "reading": "もくてき",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "改善",
+            "meaning": "Improvement",
+            "reading": "かいぜん",
+            "level": "N3",
+            "category": "Noun/Verb"
+        },
+        {
+            "word": "選択",
+            "meaning": "Choice",
+            "reading": "せんたく",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "文化",
+            "meaning": "Culture",
+            "reading": "ぶんか",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "問題",
+            "meaning": "Problem",
+            "reading": "もんだい",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "開発",
+            "meaning": "Development",
+            "reading": "かいはつ",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "意見",
+            "meaning": "Opinion",
+            "reading": "いけん",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "自信",
+            "meaning": "Confidence",
+            "reading": "じしん",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "保存",
+            "meaning": "Preservation",
+            "reading": "ほぞん",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "利用",
+            "meaning": "Use",
+            "reading": "りよう",
+            "level": "N3",
+            "category": "Noun/Verb"
+        },
+        {
+            "word": "参加",
+            "meaning": "Participation",
+            "reading": "さんか",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "実際",
+            "meaning": "Actuality, reality",
+            "reading": "じっさい",
+            "level": "N3",
+            "category": "Noun"
+        },
+        {
+            "word": "責任",
+            "meaning": "Responsibility",
+            "reading": "せきにん",
+            "level": "N3",
+            "category": "Noun"
+        }
+    ]
+}

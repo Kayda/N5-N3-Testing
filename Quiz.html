@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT Vocabulary Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .question {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        .answer {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>JLPT Vocabulary Quiz</h1>
+    <div id="quiz-container">
+        <!-- Quiz content will appear here -->
+    </div>
+    <button id="next-question" onclick="loadNextQuestion()">Next Question</button>
+
+    <script>
+        // List of JSON files (adjust paths if needed)
+        const jsonFiles = [
+            'jlpt_n5_to_n3_vocabulary_chunk1.json',
+            'jlpt_n5_to_n3_vocabulary_chunk2.json',
+            'jlpt_n5_to_n3_vocabulary_chunk3.json'
+        ];
+
+        let currentQuestionIndex = 0;
+        let currentData = [];
+        let allData = [];
+
+        // Function to fetch JSON files
+        async function loadData() {
+            for (let file of jsonFiles) {
+                try {
+                    console.log(`Loading file: ${file}`);  // Debug: Log the file being loaded
+                    const response = await fetch(file);
+                    if (!response.ok) {
+                        console.error(`Error loading file: ${file}`);
+                        continue;
+                    }
+                    const data = await response.json();
+                    console.log(`Loaded data from ${file}:`, data);  // Debug: Log the data loaded from the file
+                    allData = allData.concat(data);  // Merge data from all files
+                } catch (error) {
+                    console.error('Error fetching the JSON file:', error);
+                }
+            }
+
+            // After all files are loaded, start the quiz
+            if (allData.length > 0) {
+                console.log('All data loaded successfully:', allData);
+                loadNextQuestion();
+            } else {
+                console.error('No data found in the JSON files.');
+            }
+        }
+
+        // Function to display the next question
+        function loadNextQuestion() {
+            if (currentQuestionIndex >= allData.length) {
+                alert("Quiz finished!");
+                return;
+            }
+
+            const questionData = allData[currentQuestionIndex];
+            const questionText = `What is "${questionData.word}"?`;
+
+            const quizContainer = document.getElementById("quiz-container");
+            quizContainer.innerHTML = `
+                <div class="question">${questionText}</div>
+                <div class="answer">Meaning: ${questionData.meaning}</div>
+            `;
+
+            currentQuestionIndex++;
+        }
+
+        // Start loading data when the page loads
+        window.onload = loadData;
+    </script>
+</body>
+</html>
